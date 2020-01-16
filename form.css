@@ -1,0 +1,19 @@
+fieldset {
+    background-color: bisque;
+    height: 400px;
+    width: 350px;
+    font-family: sans-serif;
+}
+
+legend {
+    font-family: sans-serif;
+    color: rgb(182, 29, 29);
+}
+
+.submit {
+    float: right;
+}
+
+h2 {
+    color: darkgreen;
+}
